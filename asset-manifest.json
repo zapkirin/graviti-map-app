@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/graviti-map-app/static/js/main.e57cadfd.js",
+    "index.html": "/graviti-map-app/index.html",
+    "main.e57cadfd.js.map": "/graviti-map-app/static/js/main.e57cadfd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e57cadfd.js"
+  ]
+}
